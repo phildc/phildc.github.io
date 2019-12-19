@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
+<html lang="en">
+  <head>
+    <title>HTML and CSS</title>
+  </head>
+  <body>
+    <h1>HTML and CSS</h1>
+    <p>How to create a modern, responsive website with HTML and CSS.</p>
+  </body>
 </html>
