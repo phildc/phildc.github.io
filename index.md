@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <title>HTML and CSS</title>
-  </head>
-  <body>
-    <h1>HTML and CSS</h1>
-    <p>How to create a modern, responsive website with HTML and CSS.</p>
-  </body>
-</html>
+Phil Pickering
+
+Test portfolio site
+
+Here is a link to my first project: 
+
+[a relative link](another-page.md)
