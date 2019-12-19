@@ -4,4 +4,4 @@ Test portfolio site
 
 Here is a link to my first project: 
 
-[a relative link](another-page.md)
+[a relative link](https://github.com/phildc/html-css-workshop/blob/master/01-11-image-flow.html)
